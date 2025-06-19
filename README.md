@@ -33,24 +33,23 @@ cd internal-audit-dashboard</pre>
 <pre>python -m venv venv</pre>
 
 Activate the environment:
-
 On Linux / macOS:
 
-source venv/bin/activate
+<pre>source venv/bin/activate</pre>
 ### 📥 Step 3: Install Dependencies
 
-pip install -r requirements.txt
+<pre>pip install -r requirements.txt</pre>
 ### 🏃 Step 4: Run the Application
 
-python app.py
+<pre>python app.py</pre>
 The Flask app will start on:
-🌐 http://0.0.0.0:8000
+<pre>🌐 http://0.0.0.0:8000</pre>
 
 ### 🌍 Access the Application in Browser
 If running on a server (e.g., EC2), open the app at:
 
 
-http://<your-ec2-public-ip>:8000
+<pre>http://<your-ec2-public-ip>:8000</your-ec2-public-ip></pre>
 Ensure port 8000 is allowed in your security group/firewall.
 
 🖥️ Expected Output
@@ -59,12 +58,11 @@ Once the application is running, you’ll see this message in your browser:
 
 Welcome to the Internal Audit Dashboard - Version 1
 🛠️ Built With
-Python 3
-
-Flask 2.3.3
+- Python 3
+- Flask 2.3.3
 
 ### 📄 License
-This project is open-source and available under the MIT License.
+<pre>This project is open-source and available under the MIT License.</pre>
 
 ### 📬 Contact
-For questions, feedback, or contributions, feel free to open an issue or submit a pull request.
+<pre>For questions, feedback, or contributions, feel free to open an issue or submit a pull request.</pre>

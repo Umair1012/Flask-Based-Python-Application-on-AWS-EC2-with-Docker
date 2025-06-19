@@ -22,9 +22,10 @@ Check Python version:
 
 ```bash
 python --version
-'''
+
 
 📦 Step 1: Clone the Repository
+'''bash
 git clone https://github.com/your-username/internal-audit-dashboard.git
 cd internal-audit-dashboard
 🐍 Step 2: Create Virtual Environment (Recommended)

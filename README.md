@@ -6,8 +6,8 @@ A simple Flask-based web application that serves as the foundation for the Inter
 
 ## 📁 Project Structure
 
-├── app.py
-└── requirements.txt
+- app.py
+- requirements.txt
 
 
 ## 🚀 Getting Started
@@ -22,6 +22,8 @@ Check Python version:
 
 ```bash
 python --version
+```bash
+
 📦 Step 1: Clone the Repository
 git clone https://github.com/your-username/internal-audit-dashboard.git
 cd internal-audit-dashboard

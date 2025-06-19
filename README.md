@@ -49,7 +49,7 @@ The Flask app will start on:
 If running on a server (e.g., EC2), open the app at:
 
 
-<pre>http://<your-ec2-public-ip>:8000</your-ec2-public-ip></pre>
+<pre>http://<your-ec2-public-ip>:8000</pre>
 Ensure port 8000 is allowed in your security group/firewall.
 
 🖥️ Expected Output

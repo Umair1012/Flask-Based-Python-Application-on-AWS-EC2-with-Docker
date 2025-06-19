@@ -41,9 +41,8 @@ On Linux / macOS:
 <pre>pip install -r requirements.txt</pre>
 ### 🏃 Step 4: Run the Application
 
-<pre>python app.py</pre>
+<pre>python app.py 0.0.0.0:8000</pre>
 The Flask app will start on:
-<pre>🌐 http://0.0.0.0:8000</pre>
 
 ### 🌍 Access the Application in Browser
 If running on a server (e.g., EC2), open the app at:

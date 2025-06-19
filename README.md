@@ -47,17 +47,14 @@ The Flask app will start on:
 
 ### 🌍 Access the Application in Browser
 If running on a server (e.g., EC2), open the app at:
-<pre><your-ec2-public-ip>:8000</pre>
-Ensure port 8000 is allowed in your security group/firewall.
+<pre>httpe://your-ec2-public-ip:8000
+Ensure port 8000 is allowed in your security group/firewall.</pre>
 
-🖥️ Expected Output
+### 🖥️ Expected Output
 Once the application is running, you’ll see this message in your browser:
 
+<pre>Welcome to the Internal Audit Dashboard - Version 1</pre>
 
-Welcome to the Internal Audit Dashboard - Version 1
-🛠️ Built With
-- Python 3
-- Flask 2.3.3
 
 ### 📄 License
 <pre>This project is open-source and available under the MIT License.</pre>

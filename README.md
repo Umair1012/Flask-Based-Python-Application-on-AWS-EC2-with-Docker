@@ -20,8 +20,8 @@ Ensure you have Python 3.7 or higher installed.
 
 Check Python version:
 
-'''bash
-python --version'''
+<pre>'''bash
+python --version'''</pre>
 
 
 ### 📦 Step 1: Clone the Repository

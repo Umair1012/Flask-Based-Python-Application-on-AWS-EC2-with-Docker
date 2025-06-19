@@ -20,18 +20,17 @@ Ensure you have Python 3.7 or higher installed.
 
 Check Python version:
 
-<pre>'''bash
-python --version'''</pre>
+<pre>python --version</pre>
 
 
 ### 📦 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/internal-audit-dashboard.git
-cd internal-audit-dashboard
+<pre>git clone https://github.com/your-username/internal-audit-dashboard.git
+cd internal-audit-dashboard</pre>
 
 ### 🐍 Step 2: Create a Virtual Environment (Recommended)
 
-python -m venv venv
+<pre>python -m venv venv</pre>
 
 Activate the environment:
 
